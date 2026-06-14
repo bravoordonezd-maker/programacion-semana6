@@ -1,0 +1,18 @@
+Prueba de la ruta POST /registro:
+ Petición enviada:
+ - Método: POST
+ - URL: https://potential-space-goldfish-p7rwr4w465q637g55.github.dev/registro
+ - Formato: JSON
+ - Datos enviados:
+ {
+   "nombre": "Maria",
+   "mensaje": "Hola comunidad"
+ }
+ Respuesta que devuelve el servidor:
+ {
+   "estado": "Datos recibidos",
+   "nombre": "Maria",
+   "mensaje": "Hola comunidad"
+ }
+ Explicación:
+ El servidor usa express.json() para entender el formato JSON, lee los valores con req.body y devuelve la confirmación con res.json().

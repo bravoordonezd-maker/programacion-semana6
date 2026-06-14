@@ -1,0 +1,14 @@
+Ejemplo de reporte de incidencia:
+ Petición POST a:
+ https://potential-space-goldfish-p7rwr4w465q637g55.github.dev/incidencia
+ Datos enviados:
+ {
+   "tipo": "Iluminación pública",
+   "descripcion": "Lámpara del parque que no funciona desde hace 3 días"
+ }
+ Respuesta del servidor:
+ {
+   "mensaje": "Incidencia registrada",
+   "tipo": "Iluminación pública",
+   "descripcion": "Lámpara del parque que no funciona desde hace 3 días"
+ }
