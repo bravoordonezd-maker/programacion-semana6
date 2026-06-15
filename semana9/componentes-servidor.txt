@@ -1,0 +1,10 @@
+*Sistema operativo:Es el programa principal que gestiona todos los recursos del equipo (procesador, memoria, disco y red).
+Actúa como intermediario entre el hardware y las aplicaciones, permitiendo que funcionen correctamente.
+*Node.js:Es un entorno que permite ejecutar código JavaScript directamente en el servidor, sin necesidad de un navegador.
+Sirve para crear aplicaciones y servicios web rápidos y escalables.
+*Aplicación server.js:Es el archivo con el código que define el comportamiento del servidor: rutas, respuestas y reglas.
+Al ejecutarlo, se inicia el servicio que recibe y atiende las peticiones de los usuarios.
+*Puerto:Es un punto de entrada numérico que identifica un servicio específico dentro del equipo.
+Permite que los datos lleguen a la aplicación correcta cuando hay varios servicios activos al mismo tiempo.
+*Logs:Son registros que guardan todo lo que ocurre en el servidor: accesos, errores y acciones realizadas.
+Sirven para monitorear su funcionamiento, detectar fallos y solucionar problemas.
