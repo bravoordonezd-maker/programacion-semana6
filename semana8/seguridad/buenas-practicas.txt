@@ -1,0 +1,4 @@
+
+2. verificar enlaces y remitentes
+3. realizar copias de seguridad periodicas
+1. utilizar conexiones seguras

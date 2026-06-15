@@ -1,0 +1,8 @@
+¿Por qué es útil esta información?
+ 
+Conocer el estado del sistema es fundamental para administrar un servidor porque:
+· Permite detectar fallos a tiempo: por ejemplo, si el disco se llena o se agota la memoria.
+· Ayuda a resolver problemas: saber la versión del sistema para instalar actualizaciones o controladores compatibles.
+· Facilita planificar mejoras: saber si el equipo tiene recursos suficientes para nuevas aplicaciones.
+· Mejora la seguridad: verificar conexiones y procesos para identificar accesos no autorizados.
+· Evita interrupciones del servicio: mantiene el servidor funcionando sin caídas por falta de recursos.

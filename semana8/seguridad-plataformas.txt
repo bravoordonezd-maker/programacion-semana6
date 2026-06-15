@@ -1,0 +1,5 @@
+1. Actualizar sistemas y aplicaciones: instalar parches de seguridad periódicamente para corregir fallos que puedan ser explotados.
+2. Validar identidad de usuarios: confirmar que quien accede es quien dice ser antes de permitir cualquier operación.
+3. Realizar copias de seguridad frecuentes: guardar la información en sitios seguros para recuperarla en caso de fallo o ataque.
+4. Establecer reglas de uso claras: informar a todos los usuarios qué acciones están permitidas y cuáles ponen en riesgo la plataforma.
+5. Eliminar cuentas inactivas: dar de baja accesos que ya no se usen para reducir puntos de vulnerabilidad.
