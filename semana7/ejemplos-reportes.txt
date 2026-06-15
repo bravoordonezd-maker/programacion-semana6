@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "parque recreativo",
+  "descripcion": "parque en mal estado"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "contaminacion de rios"
+}
